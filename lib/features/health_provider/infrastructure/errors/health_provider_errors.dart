@@ -1,0 +1,4 @@
+
+
+
+class HealthProviderNotFound implements Exception {}
