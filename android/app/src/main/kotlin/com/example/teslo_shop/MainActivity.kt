@@ -1,4 +1,4 @@
-package com.example.teslo_shop
+package cl.mi.tribu.stork
 
 import io.flutter.embedding.android.FlutterActivity
 
